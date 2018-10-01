@@ -1,2 +1,2 @@
-# Web
-Template for using Terbium SDK inside a website.
+# Terbium SDK Web
+This is a template for website using the Terbium SDK
